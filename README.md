@@ -9,7 +9,9 @@ JavaScript: Calcula o IMC, atualiza a interface com o resultado e controla a vis
 A manipulação do DOM permite capturar entradas do usuário, realizar cálculos e atualizar a interface de forma dinâmica.
 
 Instruções para Executar a Calculadora de IMC
-Clone o Repositório:
+  você pode acessar e visualizar o projeto em:(https://radj-oliveira.github.io/html-css/)
+
+ou Clone o Repositório:
 
 Acesse o repositório GitHub da Calculadora de IMC.
 Clique no botão verde Code e copie o link do repositório.
